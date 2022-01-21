@@ -1,4 +1,17 @@
 # modified-arduino-webserver
 
-uses this library : https://github.com/adidax/dht11 for dht11 sensor 
+schematic for Temperature and Humidity 
+
+![schemeatic](temp-hum-web_bb.png)
+
+parts used:
+
+<ul>
+  <li>arduino uno or mega</li>
+  <li>ethernet shield compatible with the [arduino ethernet library](https://www.arduino.cc/en/Reference/Ethernet)</li>
+  <li>dht11 temperature and humidity sensor</li>
+  <li>about 8 wires</li>
+</ul>
+
+[this library is needed](https://github.com/adidax/dht11) for the dht11 sensor.
 
