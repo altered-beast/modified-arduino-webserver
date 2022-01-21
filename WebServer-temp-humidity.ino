@@ -103,7 +103,7 @@ void loop() {
 
            int chk = DHT11.read(DHT11PIN);
          
-            client.println("temperater is ");
+            client.println("Temperature is ");
             client.println("<br />");
             client.println((float)DHT11.temperature, 2);
             client.println("<br />");
