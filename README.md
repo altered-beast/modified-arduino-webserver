@@ -2,7 +2,7 @@
 
 this is a modified version of the [arduino webserver example](https://docs.arduino.cc/tutorials/ethernet-shield-rev2/WebServer#warning)
 
-schematic for Temperature and Humidity 
+schematic for Temperature and Humidity sensor 
 
 ![schemeatic](temp-hum-web_bb.png)
 
